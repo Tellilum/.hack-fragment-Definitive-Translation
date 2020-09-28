@@ -1,2 +1,2 @@
 # .hack-fragment-Definitive-Translation
-The Definitive Translation For .hack//frägment
+A Translation Patch By: Alice, 1UP, Xithyl, Coldbird, Erroneous, and Harrito
